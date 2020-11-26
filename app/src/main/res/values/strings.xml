@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Goods Record</string>
+    <string name="person_in_charge">Person In Charge</string>
+    <string name="supplier">Supplier</string>
+    <string name="time_and_date">Time and Date</string>
+    <string name="supplier_name">Supplier name</string>
+    <string name="goods_list">Goods list</string>
+    <string name="goods">Goods</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+    <string name="hh_mm_dd_mm_yyyy">HH:mm   dd/MM/yyyy</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
